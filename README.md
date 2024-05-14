@@ -8,7 +8,7 @@ Displays weather information including temperature in Celsius and Fahrenheit, lo
 Provides a user-friendly interface for entering the city name.
 Handles errors gracefully, informing the user if weather data retrieval fails.
 **How to Use**        
-Clone the repository to your local machine.
+Clone the repository to your local machine. 
 Install the required dependencies (requests library).
 Obtain an API key from WeatherAPI.com and replace 'YOUR_API_KEY' in the code with your actual API key.
 Run the weather_app.py script.
